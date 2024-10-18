@@ -1,0 +1,4 @@
+Locales_202104 filter=lfs diff=lfs merge=lfs -text
+Licencias_Locales_202104.csv filter=lfs diff=lfs merge=lfs -text
+Terrazas_202104 filter=lfs diff=lfs merge=lfs -text
+books.csv filter=lfs diff=lfs merge=lfs -text
